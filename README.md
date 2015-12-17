@@ -9,7 +9,7 @@
 
 <body>
 <p> Image Manipulation </p>
-<img src="IMG_1346.JPG" width= "500" height= "400" />
+<img src="IMG_1346.JPG" width= "500" height= "400" /> 
 <img src="Rachel and Mack filtered.jpg" width= "500" height= "400" />
 <p> This photo started off a little too dark due to the shadows within, so I adjusted the 
 image with the use of Pixlr. I adjusted the brightness on the photo to +10 and the 
